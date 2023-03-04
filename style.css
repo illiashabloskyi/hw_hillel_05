@@ -1,0 +1,34 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    color: red;
+}
+
+#second{
+    color: aqua;
+}
+
+.third{
+    color: blueviolet;
+}
+
+.third.fourth{
+    color: chartreuse;
+}
+
+p span{
+    color: black;
+}
+
+div>h4{
+    color: teal;
+}
+
+b+i{
+    color: rebeccapurple;
+}
+
+h4~h3{
+    color: tomato;
+}
